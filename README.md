@@ -1,9 +1,12 @@
 # shared_ptr
-Implementation of shared pointer. Incomplete but illustrates key aspects of implementation.
+Implementation of shared pointer. Incomplete but illustrates key aspects of shared_ptr functionality.
 
 
-There are a variety of items not included (time constraints)  but the key point is to illustrate the reference counting,
-memory cleanup, type erasure and use of deleters.
+There are a variety of items not included (time constraints) however the following are included;
+* reference counting
+* memory cleanup 
+* type erasure
+* deleters.
 
 For example these items are not included.
 
