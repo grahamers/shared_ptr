@@ -1,5 +1,5 @@
 # shared_ptr
-Implementation of shared pointer. Incomplete but illustrates key aspects of shared_ptr functionality.
+Implementation of shared pointer. Illustrates key aspects of shared_ptr functionality.
 
 
 There are a variety of items not included (time constraints) however the following are included;
